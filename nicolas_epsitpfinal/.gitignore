@@ -1,0 +1,10 @@
+
+###> symfony/framework-bundle ###
+##ces sources ne seront pas push###
+/.env.local
+/.env.local.php
+/.env.*.local
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
